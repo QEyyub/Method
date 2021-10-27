@@ -1,0 +1,14 @@
+C:\Users\kadir\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\Metods.exe
+C:\Users\kadir\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\Metods.deps.json
+C:\Users\kadir\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\Metods.runtimeconfig.json
+C:\Users\kadir\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\Metods.runtimeconfig.dev.json
+C:\Users\kadir\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\Metods.dll
+C:\Users\kadir\source\repos\Metods\Metods\bin\Debug\netcoreapp3.1\Metods.pdb
+C:\Users\kadir\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\Metods.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\Metods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\Metods.AssemblyInfoInputs.cache
+C:\Users\kadir\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\Metods.AssemblyInfo.cs
+C:\Users\kadir\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\Metods.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\Metods.dll
+C:\Users\kadir\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\Metods.pdb
+C:\Users\kadir\source\repos\Metods\Metods\obj\Debug\netcoreapp3.1\Metods.genruntimeconfig.cache
